@@ -23,14 +23,14 @@
 		2A698C8D1430343A0040E0F4 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		2A698C8F1430343A0040E0F4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		2A698C911430343A0040E0F4 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
-		2A698C951430343A0040E0F4 /* tempgit-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "tempgit-Info.plist"; sourceTree = "<group>"; };
+		2A698C951430343A0040E0F4 /* tempgit-Info.plist */ = {isa = PBXFileReference; path = "tempgit-Info.plist"; sourceTree = "<group>"; };
 		2A698C971430343A0040E0F4 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
-		2A698C991430343A0040E0F4 /* tempgit-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "tempgit-Prefix.pch"; sourceTree = "<group>"; };
+		2A698C991430343A0040E0F4 /* tempgit-Prefix.pch */ = {isa = PBXFileReference; path = "tempgit-Prefix.pch"; sourceTree = "<group>"; };
 		2A698C9A1430343A0040E0F4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		2A698C9C1430343A0040E0F4 /* tempgitAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tempgitAppDelegate.h; sourceTree = "<group>"; };
+		2A698C9C1430343A0040E0F4 /* tempgitAppDelegate.h */ = {isa = PBXFileReference; path = tempgitAppDelegate.h; sourceTree = "<group>"; };
 		2A698C9D1430343A0040E0F4 /* tempgitAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tempgitAppDelegate.m; sourceTree = "<group>"; };
 		2A698CA01430343A0040E0F4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
-		2A698CA21430343A0040E0F4 /* tempgitViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = tempgitViewController.h; sourceTree = "<group>"; };
+		2A698CA21430343A0040E0F4 /* tempgitViewController.h */ = {isa = PBXFileReference; path = tempgitViewController.h; sourceTree = "<group>"; };
 		2A698CA31430343A0040E0F4 /* tempgitViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = tempgitViewController.m; sourceTree = "<group>"; };
 		2A698CA61430343A0040E0F4 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/tempgitViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
